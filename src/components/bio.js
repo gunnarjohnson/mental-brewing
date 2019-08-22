@@ -8,13 +8,27 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
+import styled from "styled-components"
 
 import { rhythm } from "../utils/typography"
+
+const BioContainer = styled.div`
+  display: flex;
+  align-items: center;
+  margin-bottom: ${rhythm(2.5)};
+`
+
+const BioImage = styled(props => <Image {...props} />)`
+  min-width: 50px;
+  margin-right: ${rhythm(1 / 2)};
+  margin-bottom: 1.5rem;
+  border-radius: 100%;
+`
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
     query BioQuery {
-      avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
+      avatar: file(absolutePath: { regex: "/profile-pic.png/" }) {
         childImageSharp {
           fixed(width: 50, height: 50) {
             ...GatsbyImageSharpFixed
@@ -24,9 +38,6 @@ const Bio = () => {
       site {
         siteMetadata {
           author
-          social {
-            twitter
-          }
         }
       }
     }
@@ -34,34 +45,14 @@ const Bio = () => {
 
   const { author, social } = data.site.siteMetadata
   return (
-    <div
-      style={{
-        display: `flex`,
-        marginBottom: rhythm(2.5),
-      }}
-    >
-      <Image
+    <BioContainer>
+      <BioImage
         fixed={data.avatar.childImageSharp.fixed}
         alt={author}
-        style={{
-          marginRight: rhythm(1 / 2),
-          marginBottom: 0,
-          minWidth: 50,
-          borderRadius: `100%`,
-        }}
-        imgStyle={{
-          borderRadius: `50%`,
-        }}
+        imgStyle={{ borderRadius: `50%` }}
       />
-      <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
-        {` `}
-        <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
-        </a>
-      </p>
-    </div>
+      <p>Written by <strong>{author}</strong>, a former professional brewer who enjoys brainy banter, groovy guitars, and clean code.</p>
+    </BioContainer>
   )
 }
 
