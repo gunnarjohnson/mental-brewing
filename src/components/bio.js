@@ -51,7 +51,7 @@ const Bio = () => {
         alt={author}
         imgStyle={{ borderRadius: `50%` }}
       />
-      <p>Written by <strong>{author}</strong>, a former professional brewer who enjoys brainy banter, groovy guitars, and clean code.</p>
+      <p>Written by <strong>{author}</strong>, a professional brewer turned programmer who enjoys brainy banter, groovy guitars, and clean code.</p>
     </BioContainer>
   )
 }
