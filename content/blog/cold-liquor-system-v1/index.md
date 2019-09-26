@@ -1,6 +1,6 @@
 ---
 title: Mental Gear - Recirculating Cold Liquor System
-date: "2019-10-01T17:00:00Z"
+date: "2019-09-15T17:00:00Z"
 description: "A solution for knocking out at cold temperatures even when it's hot outside."
 ---
 
@@ -24,9 +24,9 @@ I decided to set up a recirculating cold liquor system, similar to what I used a
 ### Parts List
 - 1/6 HP submersible pump from [Harbor Freight](https://www.harborfreight.com/16-hp-submersible-utility-pump-1600-gph-63319.html)
 - 1/2" ID SS-braided washer hoses from [Home Depot](https://www.homedepot.com/p/Everbilt-4-ft-Universal-Stainless-Steel-Washing-Machine-Hose-with-Elbow-2-Pack-98257/307638977)
-- A pine board
+- Wood board (pine, oak, etc.)
 - 1" PVC pipe and connectors
-- Stainless steel screws, nuts, and washers.
+- Stainless steel screws, nuts, and washers
 
 
 ### Setup
