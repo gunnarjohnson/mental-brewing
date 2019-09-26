@@ -27,34 +27,38 @@ People often ask me about the styles of beer that I've brewed before. So, I thou
 ## Rahr & Sons Brewing Co.
 **2013 - 2015**
 
-- Amber Ale | _Beaming Sun (Small Batch)_, _Texas Red / Buffalo Butt_
-- Autumn Seasonal Beer | _Pumpkin Ale_
-- Barleywine | _Tenderfoot_
-- Black Lager | _Ugly Pug_
+- American Amber Ale | _Beaming Sun (Small Batch)_, _Texas Red / Buffalo Butt_
+- American Barleywine | _Tenderfoot_
+- Autumn Seasonal Beer | _Pumpkin_
+- Belgian Dubbel | _DFW: A Collaboration of Two Breweries_
 - Doppelbock | _Regulator_
-- Dubbel | _Lakewood Collaboration_
 - English IPA | _Stormcloud_
-- Gratzer | _Gratzer (Small Batch)_
-- Hefeweizen | _Summertime Wheat_
-- Helles Lager | _Blonde_
 - Maibock | _Bucking Bock_
-- Marzen | _Oktoberfest_
+- Märzen | _Oktoberfest_
+- Munich Helles | _Blonde_
 - Oatmeal Stout | _Snowmageddon_
+- Piwo Grodziskie | _Gratzer (Small Batch)_
+- Schwarzbier | _Ugly Pug_
 - Wee Heavy | _Iron Thistle_
-- Winter Warmer | _BBAWW_, _Winter Warmer_
+- Weizen/Weissbier (Hefeweizen) | _Summertime Wheat_
+- Winter Seasonal Beer | _BBAWW_, _Winter Warmer_
 
 ---
 
 ## Homebrewer / Siebel Student
 **2011 - 2013**
 
+- American Pale Ale | _Cascade Pale Ale_, _Centennial Pale Ale_, _Crystallum_
 - Autumn Seasonal Beer | _Pumpkin Ale_
-- Fruit and Spice Beer | _Cranberry Ale_
-- Golden Strong Ale | _Hopped and Loaded_
+- Belgian Golden Strong Ale | _Hopped and Loaded_
+- Fruit Beer | _Cranberry Ale_
 - Irish Stout | _Dry Irish Stout_
-- Pale Ale | _Cascade Pale Ale_, _Centennial Pale Ale_, _Crystallum_
 - Winter Seasonal Beer | _Blonde with Sand_
 
 ---
 
-Given that many of these beers were brewed on a ~50 BBL brewhouse, the amount of beer that I've brewed is somewhere in the vicinity of tens of thousands of gallons. This amount is equivalent to millions of pints, or more beer than I could drink in a hundred lifetimes! Thankfully, other people drank the beer for me.
+Given that many of these beers were brewed on a ~50 BBL brewhouse, the amount of beer that I've brewed is somewhere in the vicinity of tens of thousands of gallons. This amount is equivalent to millions of pints, or more beer than I could drink in a hundred lifetimes!
+
+> "A man has dreams..." - Mr. Banks<br>
+> <br>
+> "Let us put more of this liquid into our bodies." - Drax the Destroyer
