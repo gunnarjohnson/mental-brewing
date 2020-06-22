@@ -45,7 +45,7 @@ Everything else in the system is typical of a counterflow chilling setup - the w
 
 ![Knockout](./chiller-1_3.jpg)
 
-> PRO TIP<br>
+> PRO TIP<br />
 > Stick your hands in the ice water. Or even your head. It doesn't help chill the wort, but it feels good and wards off heat stroke.
 
 ## Using the System
@@ -55,7 +55,7 @@ These are the details on how I integrated the recirculating cold liquor system i
 - Whirlpool for 15 minutes by pumping hot wort through the counterflow chiller and back into the kettle
   - This dropped the wort temp from boiling to ~190 °F
 - Run groundwater through the counterflow chiller for 10 minutes while continuing to recirculate the wort
-  - This dropped the wort temp to ~100 °F in 15 minutes
+  - This dropped the wort temp to ~100 °F in 10 minutes
   - An added benefit of chilling while recirculating wort is the ability to leave the cold break in the kettle
 - 15 minute rest
 - Start the recirculating cold liquor system and begin knocking out into the fermenter

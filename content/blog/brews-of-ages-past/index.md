@@ -59,6 +59,10 @@ People often ask me about the styles of beer that I've brewed before. So, I thou
 
 Given that many of these beers were brewed on a ~50 BBL brewhouse, the amount of beer that I've brewed is somewhere in the vicinity of tens of thousands of gallons. This amount is equivalent to millions of pints, or more beer than I could drink in a hundred lifetimes!
 
-> "A man has dreams..." - Mr. Banks<br>
-> <br>
+<br />
+
+> "A man has dreams..." - Mr. Banks<br />
+> <br />
 > "Let us put more of this liquid into our bodies." - Drax the Destroyer
+
+<br />
